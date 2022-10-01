@@ -1,6 +1,10 @@
 a{
     cursor: zoom-in;
 }
+/*#texto{
+    color: blueviolet;
+    text-align: center;
+} no se usa comunmente*/
 .contenedor{
     width: 500px;
     margin-left: 20px;
